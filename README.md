@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chafi Khermouche</h1>
-<h3 align="center">A passionate Business Intelligence Consultant | Data Engineer | Data passionate</h3>
+<h3 align="center">A passionate Business Intelligence Consultant | Data Engineer | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chafkh&label=Profile%20views&color=0e75b6&style=flat" alt="chafkh" /> </p>
 
-- 🔭 I’m currently working on **Microsoft Fabric implementation**
+- 🔭 I’m currently working on
+    **Microsoft Fabric implementation**
+    **Snowflake Talend data architecture implementation**
+    **Power BI report for senior management**
 
-- 🌱 I’m currently learning **Analytics engineering**
+- 🌱 I’m currently learning
+    **Analytics engineering**
+    **Data Anlytics**
+    **Data engineering**
 
-- 📫 How to reach me **chafi.khermouche@etu.unistra.fr**
+- 📫 How to reach me **chafi.khermouche.pro@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- 😄 Fun fact **I get more satisfaction from a well-designed dashboard than from finishing a Netflix series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
