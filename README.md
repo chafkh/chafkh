@@ -9,9 +9,9 @@
     - **Power BI report for senior management**
 
 - 🌱 I’m currently learning
-    **Analytics engineering**
-    **Data Anlytics**
-    **Data engineering**
+    - **Analytics engineering**
+    - **Data Anlytics**
+    - **Data engineering**
 
 - 📫 How to reach me **chafi.khermouche.pro@gmail.com**
 
