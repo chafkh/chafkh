@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chafkh&label=Profile%20views&color=0e75b6&style=flat" alt="chafkh" /> </p>
 
 - 🔭 I’m currently working on
-    **Microsoft Fabric implementation**
-    **Snowflake Talend data architecture implementation**
-    **Power BI report for senior management**
+    - **Microsoft Fabric implementation**
+    - **Snowflake Talend data architecture implementation**
+    - **Power BI report for senior management**
 
 - 🌱 I’m currently learning
     **Analytics engineering**
