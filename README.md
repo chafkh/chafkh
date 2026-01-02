@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning
     - **Analytics engineering**
-    - **Data Anlytics**
+    - **Data Analytics**
     - **Data engineering**
 
 - 📫 How to reach me **chafi.khermouche.pro@gmail.com**
